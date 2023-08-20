@@ -13,4 +13,4 @@ For this , i have used classification ml algorithm :
 3) LOGISTIC REGRESSION
 4) KNEIGHBOUR CLASSIFIER
 
-I have used Grid Search to see which is the best parameter for a pmodel.
+I have used Grid Search to see which is the best parameter for each model.
